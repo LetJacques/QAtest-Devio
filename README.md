@@ -10,12 +10,12 @@ Este repositório contém os testes automatizados realizados para o processo sel
 
 1. Clone o repositório: 
   ```bash
-  git clone https://github.com/LetJacques/Devio-QA.git
+  git clone https://github.com/LetJacques/QAtest-Devio.git
   ```
 
 2. Instale as dependências: Navegue até o diretório do projeto e instale as dependências:
   ```bash
-  cd Devio-QA
+  cd QAtest-Devio
   npm install
   ```
 
