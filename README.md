@@ -28,4 +28,4 @@ Isso abrirá o Cypress em modo interativo, onde você poderá escolher os testes
 
 ## Documentação do Teste Manual
 
-[A documentação do teste manual está disponível aqui](https://docs.google.com/document/d/1JCSOBBm9-ogOLCc73BZb9OA2NryY2Ta00hdtZUnvds8/edit?usp=sharing). Nela, você encontrará os detalhes sobre os testes realizados, e bugs encontrados juntamente com suas evidências.
+[A documentação do teste manual está disponível aqui](https://docs.google.com/document/d/1omPeNC4dsXCbxM3PpJwabg6t_-tgkz1aWXQGtaTD2o0/edit?usp=sharing). Nela, você encontrará os detalhes sobre os testes realizados, e bugs encontrados juntamente com suas evidências.
